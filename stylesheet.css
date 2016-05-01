@@ -1,0 +1,1 @@
+document.getElementById("result").innerHTML = "Your result is: " + function3(function2(function1(input)));
